@@ -1,3 +1,10 @@
+// Description:
+//   文章を入力すると、cole風？に文章を返してくれます。
+//
+// Commands:
+//   cole 文章 - return ブンショウダガ、hogehoge
+//
+
 (function(){
 	
 	var url = "https://labs.goo.ne.jp/api/morph";
